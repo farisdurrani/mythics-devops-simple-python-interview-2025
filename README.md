@@ -20,6 +20,7 @@ A simple Python interview set for Mythics DevOps role.
 1. Save the json file in [data/json-sample.json](data/json-sample.json) into a local file using python from the internet, and then read the json contents to answer the following questions
 1. Compare the total revenue by category (Electronics vs Accessories)
 1. Compare the total amount spent by date
+1. **Optional:** Now, fetch the [Iris dataset](https://gist.github.com/netj/8836201#file-iris-csv) using python. Print the average sepal length.
 
 ## License
 
