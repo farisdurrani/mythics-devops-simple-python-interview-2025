@@ -1,0 +1,75 @@
+{
+  "store": "TechMart",
+  "location": "Atlanta, GA",
+  "sales": [
+    {
+      "date": "2025-08-01",
+      "transaction_id": "T1001",
+      "customer": {
+        "id": "C001",
+        "name": "Alice Johnson",
+        "loyalty_points": 120
+      },
+      "items": [
+        {
+          "product": "Laptop",
+          "category": "Electronics",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "product": "Mouse",
+          "category": "Accessories",
+          "price": 25,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "transaction_id": "T1002",
+      "customer": {
+        "id": "C002",
+        "name": "Bob Smith",
+        "loyalty_points": 80
+      },
+      "items": [
+        {
+          "product": "Monitor",
+          "category": "Electronics",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "product": "HDMI Cable",
+          "category": "Accessories",
+          "price": 15,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "date": "2025-08-02",
+      "transaction_id": "T1003",
+      "customer": {
+        "id": "C003",
+        "name": "Charlie Davis",
+        "loyalty_points": 200
+      },
+      "items": [
+        {
+          "product": "Keyboard",
+          "category": "Accessories",
+          "price": 45,
+          "quantity": 1
+        },
+        {
+          "product": "Laptop",
+          "category": "Electronics",
+          "price": 1150,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
